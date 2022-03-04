@@ -1,4 +1,4 @@
-# stochastic-motion-textures
+# Animating Pictures with Stochastic Motion Textures
 Animating Pictures with Stochastic Motion Textures
 
 This project implements Animating Pictures with Stochastic Motion Textures (2005) within this implementation includes (2004) Region Filling and Object Removal by
