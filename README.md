@@ -13,5 +13,4 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_ti
 ![result_1](https://user-images.githubusercontent.com/50963416/156674947-33ec5ede-0c4d-4786-a9ea-79b56f67e8df.gif)
 
 
-![input_1](https://user-images.githubusercontent.com/50963416/156675761-ed9347a1-7236-4cba-9973-43bbbcdb578f.png)
 ![result_1](https://user-images.githubusercontent.com/50963416/156675762-1110905e-735f-4a12-8ad8-19cb32059178.gif)
