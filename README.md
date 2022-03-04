@@ -1,6 +1,7 @@
 # Animating Pictures with Stochastic Motion Textures
-Animating Pictures with Stochastic Motion Textures
+Enhancing still pictures with subtly animated motion
 
+## Implementation
 This project implements Animating Pictures with Stochastic Motion Textures (2005) within this implementation includes (2004) Region Filling and Object Removal by
 Exemplar-Based Image Inpainting and A Bayesian Approach to Digital Matting aswell as A Bayesian Approach to Digital Matting (2001). In this implementation youll find simplified implementations of these in order to have an appropriate output.  
 
