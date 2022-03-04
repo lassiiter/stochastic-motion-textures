@@ -4,12 +4,15 @@ Enhancing still pictures with subtly animated motion
 ## Implementation
 This project implements Animating Pictures with Stochastic Motion Textures (2005) within this implementation includes (2004) Region Filling and Object Removal by
 Exemplar-Based Image Inpainting and A Bayesian Approach to Digital Matting aswell as A Bayesian Approach to Digital Matting (2001). In this implementation youll find simplified implementations of these in order to have an appropriate output.  
+![Comp Photography Pipeline 2drawio (4)](https://user-images.githubusercontent.com/50963416/156676509-662692da-2f37-402d-87e6-9c26b1cf8725.png)
 
 https://grail.cs.washington.edu/projects/StochasticMotionTextures/  
 https://grail.cs.washington.edu/projects/digital-matting/papers/cvpr2001.pdf  
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_tip2004.pdf  
 
-## Inpainting Process
+## Inpainting Process  
+After manual user annotation and labeling of location and type, the algorithm fills in the area with a patch match solution  
+
 ![edges](https://user-images.githubusercontent.com/50963416/156676042-46bb6432-da87-4190-9cba-f865d1f7f2d1.png)
 ![location_patch_replace](https://user-images.githubusercontent.com/50963416/156676037-0757a667-47dd-4f38-afcf-f4a8c477562d.png)
 ![img](https://user-images.githubusercontent.com/50963416/156676045-d01d04ef-9069-4400-9940-74946e94d1d7.png)
